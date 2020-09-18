@@ -152,7 +152,7 @@ target_sources(
 set(FOLDERS
 	Bindings BlockEntities Blocks Entities
 	Generating HTTP Items mbedTLS++ Mobs Noise
-	OSSupport Protocol Registries Simulator
+	OSSupport Physics Protocol Registries Simulator
 	Simulator/IncrementalRedstoneSimulator UI WorldStorage
 )
 
